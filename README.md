@@ -15,6 +15,8 @@
   - 서브항목 4-1
   - 서브항목 4-2
 
+### [manual](https://github.com/lv1jyk/calculator/blob/develop/manual.md)
+
 ```bash
 commit 42c5f9762a717bed639806b999f81469588beb4e
 Author: Choiyiseul <dltmf9287@naver.com>
